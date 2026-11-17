@@ -1,0 +1,4 @@
+S001|Python cơ bản|Nguyễn Văn A|Tin học|2022|NXB Giáo dục|10|2
+S002|Cấu trúc dữ liệu và giải thuật|Trần Thị B|Tin học|2023|NXB Đại học|8|1
+S003|Dế Mèn phiêu lưu ký|Tô Hoài|Văn học|2020|NXB Kim Đồng|12|0
+S004|Tuổi trẻ đáng giá bao nhiêu?|Rosie Nguyễn|Kỹ năng|2018|NXB Hội Nhà Văn|5|2
